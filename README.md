@@ -4,19 +4,19 @@ This will be my overview repository. This repo will be the first part of my proj
 ## Repositories
 
 
-##Diagram
+## Diagram
 
 
-##Repository context
+## Repository context
 
 
-##Branching strategy
+## Branching strategy
 
 
-##.gitignore
+## .gitignore
 
 
-##Storage of credentials
+## Storage of credentials
 
 
-##Sensitive information
+## Sensitive information
