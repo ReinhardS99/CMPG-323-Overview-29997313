@@ -16,9 +16,6 @@ Project 5: (To be added)
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/91787541/185212781-54ff4211-0db7-4c5b-84c3-e10e00e6b330.svg)
 
 
-## Repository context
-
-
 ## Branching strategy
 
 
