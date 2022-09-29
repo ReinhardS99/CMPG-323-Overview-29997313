@@ -6,7 +6,7 @@ Every project that we do this semester will have it's own repository. Thus in th
 
 Project 1: https://github.com/ReinhardS99/CMPG-323-Overview-29997313 <br />
 Project 2: (To be added) <br />
-Project 3: (To be added) <br />
+Project 3: (https://github.com/ReinhardS99/CMPG-323-Project-3---29997313/tree/Development) <br />
 Project 4: (To be added) <br />
 Project 5: (To be added)
 
